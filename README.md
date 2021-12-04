@@ -8,7 +8,7 @@ I am FERYEL, a Tunisian software engineer. I am interested in learning more skil
 
 
 - 🔭 I’m currently working on Android project
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Android projects
 - 🤔 I’m looking for help with "Freelancing"
 - 💬 Ask me about relationships
