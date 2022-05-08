@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am FERYEL, a Tunisian software engineer. I am interested in learning more skills related to mobile development.
+I am FERIEL, a Tunisian software engineer. I am interested in learning more skills related to mobile development.
 
 
 
